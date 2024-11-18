@@ -1,5 +1,9 @@
 # CART POLE BALANCING
 
+# Date: 12/11/2024
+# Name: H.Berjin Shabeck
+# Reg no: 212222240018
+
 ## AIM
 To develop and fine tune the Monte Carlo algorithm to stabilize the Cart Pole.
 
